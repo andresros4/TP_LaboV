@@ -1,2 +1,2 @@
-# TP_LaboV
-TP de Laboratorio V
+# TP_laboV
+Trabajo práctico de Laboratorio V
